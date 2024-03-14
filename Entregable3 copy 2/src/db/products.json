@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "title": "Mate",
+    "description": "Hierbas serranas",
+    "code": "PRD-001",
+    "price": 2000,
+    "status": 1,
+    "thumbnails": [],
+    "stock": 25,
+    "category": "Original"
+  },
+  {
+    "id": 2,
+    "status": 1,
+    "title": "Cafe",
+    "description": "Cafe instantaneo",
+    "price": 3000,
+    "thumbnails": [],
+    "code": "PRD-002",
+    "stock": 10,
+    "category": "Original"
+  },
+  {
+    "id": 3,
+    "title": "Harina",
+    "description": "Palmito",
+    "price": 4000,
+    "thumbnails": [],
+    "code": "PRD-014",
+    "stock": 25,
+    "status": 1
+  },
+  {
+    "id": 4,
+    "status": 1,
+    "title": "Palmito",
+    "description": "Palmito",
+    "price": 4000,
+    "thumbnails": [],
+    "code": "PRD-004",
+    "stock": 25,
+    "category": "Original"
+  },
+  {
+    "id": 5,
+    "status": 1,
+    "title": "Yerba",
+    "description": "Palmito",
+    "price": 4000,
+    "thumbnails": [],
+    "code": "PRD-005",
+    "stock": 25,
+    "category": "Original"
+  },
+  {
+    "id": 6,
+    "status": 1,
+    "title": "mermelada",
+    "description": "Palmito",
+    "price": 4000,
+    "thumbnails": [],
+    "code": "PRD-006",
+    "stock": 25,
+    "category": "Original"
+  },
+  {
+    "id": 7,
+    "title": "cacao",
+    "status": 1,
+    "description": "Palmito",
+    "price": 4000,
+    "thumbnails": [],
+    "code": "PRD-007",
+    "stock": 25,
+    "category": "Original"
+  },
+  {
+    "id": 8,
+    "title": "picadillo",
+    "status": 1,
+    "description": "Palmito",
+    "price": 4000,
+    "thumbnails": [],
+    "code": "PRD-008",
+    "stock": 25,
+    "category": "Original"
+  },
+  {
+    "id": 9,
+    "title": "Paté",
+    "description": "Palmito",
+    "status": 1,
+    "price": 4000,
+    "thumbnails": [],
+    "code": "PRD-009",
+    "stock": 25,
+    "category": "Original"
+  },
+  {
+    "id": 10,
+    "title": "caballa",
+    "description": "Palmito",
+    "status": 1,
+    "price": 4000,
+    "thumbnails": [],
+    "code": "PRD-010",
+    "stock": 25,
+    "category": "Original"
+  }
+]
